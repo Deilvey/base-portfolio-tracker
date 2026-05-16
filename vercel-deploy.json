@@ -1,0 +1,8 @@
+{
+  "name": "base-portfolio-tracker",
+  "files": [],
+  "projectSettings": {
+    "framework": "nextjs"
+  },
+  "target": "production"
+}
