@@ -1,0 +1,10 @@
+{
+  "name": "Base Portfolio Tracker",
+  "iconUrl": "https://base.org/favicon.ico",
+  "homeUrl": "https://base-portfolio-tracker.vercel.app",
+  "imageUrl": "https://base.org/images/base-logo.png",
+  "buttonTitle": "Open Portfolio",
+  "splashImageUrl": "https://base.org/images/base-logo.png",
+  "splashBackgroundColor": "#0052FF",
+  "version": "1.0.0"
+}
